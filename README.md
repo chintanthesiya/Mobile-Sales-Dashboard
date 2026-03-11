@@ -43,5 +43,6 @@ Key questions in your mind:
 
 
 7.Screenshot
-Dashboard look like.--![Dashboard Preview].(https://github.com/chintanthesiya/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.png)
+Dashboard look like.- ![Alt text].(https://github.com/username/repo/assets/image.png)
+![Dashboard Preview].(https://github.com/chintanthesiya/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.png)
 
