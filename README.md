@@ -43,6 +43,6 @@ Key questions in your mind:
 
 
 7.Screenshot
-Dashboard look like.- ![Alt text].(https://github.com/username/repo/assets/image.png)
+Dashboard look like.--
 ![Mobile Sales Dashboard](https://raw.githubusercontent.com/chintanthesiya/Mobile-Sales-Dashboard/main/Mobile_sales_dashboard.png)
 
