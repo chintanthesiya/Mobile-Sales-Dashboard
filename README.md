@@ -37,9 +37,10 @@ This dashboard provides:
 - Easy-to-read charts for executive reporting.
 
 Key questions in your mind:
-which month is high mobile sales?
-which transaction method is most used by customer and they comfort with?
-which state are highest number of buy mobile?
+ -which month is high mobile sales?
+ -which transaction method is most used by customer and they comfort with?
+ -which state are highest number of buy mobile?
+
 
 7.Screenshot
 Dashboard look like.--https://github.com/chintanthesiya/Mobile-Sales-Dashboard/blob/main/Mobile_sales_dashboard.png
